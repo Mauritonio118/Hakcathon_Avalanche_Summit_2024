@@ -1,4 +1,4 @@
-# Pre-Hackathon Progress - Click Token
+# Pre-Hackathon Progress - Click Token🖱️
 
 This repository contains the initial work developed in the three days leading up to the hackathon. The code in the folder corresponds to a conceptual frontend of what I planned to present for this competition.
 
